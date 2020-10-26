@@ -1,6 +1,6 @@
 # Bikesharing Analysis 
 
-[Link to Tableau Story](https://public.tableau.com/profile/syed.abrar.hossain#!/vizhome/Bike-sharingAnalysis/NYCitiBikeStory)
+[**Link to Tableau Story**](https://public.tableau.com/profile/syed.abrar.hossain#!/vizhome/Bike-sharingAnalysis/NYCitiBikeStory)
 ## Overview of Statistical Analysis
 
 The Analysis was performed to convince investors to invest on a bike-sharing program in Des Moines, Iowa. To convince the investors that bikesharing would be a solid business, analysis was performed on a dataset of New York city CitiBike bike-sharing data for August 2018. From the measures and dimensions available in the dataset various visualizations were created in order to show the potential of a similar program in Des Moines. The various visualizations that will be shown to answer the following questions:
